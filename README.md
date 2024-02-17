@@ -3,8 +3,8 @@
 ![Hgbt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgbt&count_private=true&theme=synthwave)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=hgbt&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=hgbt&show_icons=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-hgbt.vercel.app/api?username=hgbt&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-hgbt.vercel.app/api?username=hgbt&show_icons=true&count_private=true">
 </picture>
 
 <!--START_SECTION:waka-->
