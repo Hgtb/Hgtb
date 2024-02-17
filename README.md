@@ -1,6 +1,6 @@
 
-![](https://github-readme-stats.vercel.app/api?username=hgbt)
-![Hgbt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgbt&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=hgbt&count_private=true)
+![Hgbt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgbt&count_private=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
