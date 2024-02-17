@@ -7,6 +7,9 @@
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hgbt&show_icons=true&count_private=true">
 </picture>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hgbt&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgbt&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
