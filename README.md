@@ -1,7 +1,3 @@
-
-
-[![Hgbt's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=noccylux\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/noccylux/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
 ![Hgbt's GitHub stats](https://github-readme-stats.vercel.app/api?username=noccylux&count_private=true&theme=synthwave)
 
 <picture>
@@ -10,7 +6,7 @@
 </picture>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hgbt&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hgbt&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noccylux&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
