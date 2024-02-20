@@ -6,9 +6,8 @@
 </picture>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hgbt&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noccylux&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hgbt&layout=compact&theme=synthwave)](https://github.com/Hgbt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noccylux&layout=compact&theme=synthwave)](https://github.com/noccylux/github-readme-stats)
