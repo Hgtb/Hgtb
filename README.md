@@ -1,12 +1,12 @@
 
 
-[![Hgbt's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hgbt\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/hgbt/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Hgbt's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=noccylux\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/noccylux/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
-![Hgbt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgbt&count_private=true&theme=synthwave)
+![Hgbt's GitHub stats](https://github-readme-stats.vercel.app/api?username=noccylux&count_private=true&theme=synthwave)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hgbt&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hgbt&show_icons=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=noccylux&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=noccylux&show_icons=true&count_private=true">
 </picture>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hgbt&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
