@@ -10,4 +10,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noccylux&layout=compact&theme=synthwave?hide=jupyternotebook)](https://github.com/noccylux/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noccylux&layout=compact&theme=synthwave?hide=jupyter_notebook)](https://github.com/noccylux/github-readme-stats)
