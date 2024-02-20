@@ -1,6 +1,6 @@
 
 
-[![Hgbt's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/Hgbt/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Hgbt's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hgbt\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/hgbt/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 ![Hgbt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgbt&count_private=true&theme=synthwave)
 
